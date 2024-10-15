@@ -1,5 +1,7 @@
 # ADOU24 - GitHub Platform Tutorial (GPT)
 
+Leticia's Version 
+
 This repository serves to hold the training materials and resources for the full-day GitHub Platform Tutorial.
 
 ## General Resources 
