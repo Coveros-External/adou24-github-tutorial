@@ -24,7 +24,6 @@ This repository serves to hold the training materials and resources for the full
 - show Projects templates
 - see the Projects tab
 
-
 ## GitHub Actions 
 - [GitHub Actions](https://github.com/features/actions)
 - [GH Actions Org](https://github.com/actions)
